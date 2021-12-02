@@ -1,0 +1,37 @@
+body {
+  background-color: #5459aa;
+}
+.bulk {
+  background-color: #03062a;
+  margin-top: 150px;
+  background-color: #03062a;
+  margin: 150px auto 0;
+  width: 400px;
+  color: #fff;
+}
+.result {
+  background-color: #171931;
+  padding: 11px 10px;
+  text-transform: capitalize;
+}
+.result span {
+  color: #07f532;
+}
+.d-flex {
+  justify-content: space-between;
+}
+.d-flex > div {
+  width: calc(99% / 2);
+}
+.d-flex input {
+  background-color: #171931;
+  color: #07f532;
+  width: 150px;
+  border: 1px solid #000;
+}
+.btn {
+  color: #fff;
+  text-align: center;
+  background: #222b71;
+  
+}
